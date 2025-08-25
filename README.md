@@ -6,6 +6,12 @@ The projects and assignments herein explore fundamental AI concepts and algorith
 
 ---
 
+## Homework Submission
+
+* [Click here to submit your assignment](https://docs.google.com/forms/d/e/1FAIpQLSfzIIYz_vTivM7MNp3snOhgJuU5tnAiwMbl3k6Zq-BdQBuGSQ/viewform?usp=header)
+
+---
+
 ## Instructor
 
 * Asst. Prof. Dr. Ittipon Fongkaew
